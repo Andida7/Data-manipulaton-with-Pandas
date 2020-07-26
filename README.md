@@ -1,2 +1,5 @@
 # Data-manipulaton-with-Pandas
-...but had fun doing them...
+for happiness in life:
+      eat
+      sleep
+      code
